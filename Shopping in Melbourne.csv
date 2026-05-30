@@ -1,11 +1,11 @@
-﻿Name,latitude,longitude
-South Melbourne Market,-37.832173,144.9564881
-Prahran Market,-37.8460192,144.9925896
-Emporium Melbourne,-37.8124148,144.9639161
-Melbourne Central,-37.8100038,144.962569
-Bourke Street Mall,-37.8138383,144.9644426
-Chadstone Shopping Centre,-37.8866236,145.0823987
-Doncaster Shopping Centre,-37.783969,145.1249511
-Eastland Shopping Centre,-37.8132401,145.2290681
-Crown Melbourne,-37.8233316,144.9582858
-Queen Victoria Market,-37.8069984,144.9569511
+﻿Name,latitude,longitude,Suburb
+South Melbourne Market,-37.832173,144.9564881,South Melbourne
+Prahran Market,-37.8460192,144.9925896,Prahran
+Emporium Melbourne,-37.8124148,144.9639161,Melbourne
+Melbourne Central,-37.8100038,144.962569,Melbourne
+Bourke Street Mall,-37.8138383,144.9644426,Melbourne
+Chadstone Shopping Centre,-37.8866236,145.0823987,Chadstone
+Doncaster Shopping Centre,-37.783969,145.1249511,Doncaster
+Eastland Shopping Centre,-37.8132401,145.2290681,Ringwood
+Crown Melbourne,-37.8233316,144.9582858,Southbank
+Queen Victoria Market,-37.8069984,144.9569511,Melbourne
